@@ -1,1 +1,1 @@
-# otus_networks
+# Курс "Network Engineer. Professional" от OTUS
